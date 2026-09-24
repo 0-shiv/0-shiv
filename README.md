@@ -8,4 +8,4 @@ At **[labs.secondstep](https://github.com/secondsteplabs)** I open-source the to
 - **BookingBridge**: proves which ad clicks turned into real bookings, even when the booking happens off-site.
 - **Google Ads MCP server** (coming soon): lets AI agents work across many ad accounts safely.
 
-[Website](https://shivendrarawat.com) · [X](https://x.com/shivilizationn)
+[Website](https://shivendrarawat.com) · [LinkedIn](https://www.linkedin.com/in/shivendrarawat) · [X](https://x.com/shivilizationn)
